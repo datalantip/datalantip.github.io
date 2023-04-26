@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Lantip - Open Data Untuk Bisnis Anda</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2022-06-25T11:20:00+07:00</updated><subtitle>narasi dan data visualization</subtitle><entry><title>Miliki 278.397 Ekor, Populasi Sapi Potong Di Blora Terbanyak Se-Jateng</title><link href="/populasi-sapi-potong-terbesar-jateng" rel="alternate"></link><published>2022-06-25T11:20:00+07:00</published><updated>2022-06-25T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-25:/populasi-sapi-potong-terbesar-jateng</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Lantip - Open Data Untuk Bisnis Anda</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2022-06-25T11:20:00+07:00</updated><subtitle>narasi dan data visualization</subtitle><entry><title>Miliki 278.397 Ekor, Populasi Sapi Potong Di Blora Terbanyak Se-Jateng</title><link href="/populasi-sapi-potong-terbesar-jawa-tengah-2021" rel="alternate"></link><published>2022-06-25T11:20:00+07:00</published><updated>2022-06-25T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-25:/populasi-sapi-potong-terbesar-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -147,7 +147,7 @@ options: {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="livestock"></category><category term="cows"></category></entry><entry><title>Pemalang Menjadi Kabupaten Dengan Populasi Kerbau Terbesar Yaitu 8251 Ekor</title><link href="/populasi-kerbau-terbesar-jateng" rel="alternate"></link><published>2022-06-25T10:20:00+07:00</published><updated>2022-06-25T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-25:/populasi-kerbau-terbesar-jateng</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Agroindustri"></category><category term="jawa tengah"></category><category term="ternak"></category><category term="sapi"></category></entry><entry><title>Pemalang Menjadi Kabupaten Dengan Populasi Kerbau Terbesar Yaitu 8251 Ekor</title><link href="/populasi-kerbau-terbesar-jawa-tengah-2021" rel="alternate"></link><published>2022-06-25T10:20:00+07:00</published><updated>2022-06-25T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-25:/populasi-kerbau-terbesar-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -295,7 +295,7 @@ options: {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="livestock"></category><category term="buffalo"></category></entry><entry><title>Pengeluaran Jasa dan Komoditas Lainnya Turun 3% dari Tahun 2020</title><link href="/pengeluaran-services-sebulan" rel="alternate"></link><published>2022-06-24T11:20:00+07:00</published><updated>2022-06-24T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-24:/pengeluaran-services-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Agroindustri"></category><category term="jawa tengah"></category><category term="ternak"></category><category term="kerbau"></category></entry><entry><title>Pengeluaran Jasa dan Komoditas Lainnya Turun 3% dari Tahun 2020</title><link href="/pengeluaran-services-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-24T11:20:00+07:00</published><updated>2022-06-24T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-24:/pengeluaran-services-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -462,7 +462,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="services"></category></entry><entry><title>Geliat Belanja Ikan Mulai Meningkat 11% Dari Tahun 2020</title><link href="/pengeluaran-ikan-sebulan" rel="alternate"></link><published>2022-06-24T10:20:00+07:00</published><updated>2022-06-24T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-24:/pengeluaran-ikan-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category></entry><entry><title>Geliat Belanja Ikan Mulai Meningkat 11% Dari Tahun 2020</title><link href="/pengeluaran-ikan-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-24T10:20:00+07:00</published><updated>2022-06-24T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-24:/pengeluaran-ikan-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -629,7 +629,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="fishes"></category></entry><entry><title>Pembelian Bahan Minuman Meningkat Kembali Sejak Tahun 2020</title><link href="/pengeluaran-bahan-minuman-sebulan" rel="alternate"></link><published>2022-06-23T11:20:00+07:00</published><updated>2022-06-23T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-23:/pengeluaran-bahan-minuman-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="ikan"></category></entry><entry><title>Pembelian Bahan Minuman Meningkat Kembali Sejak Tahun 2020</title><link href="/pengeluaran-bahan-minuman-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-23T11:20:00+07:00</published><updated>2022-06-23T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-23:/pengeluaran-bahan-minuman-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -760,7 +760,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="tea"></category><category term="sugar"></category><category term="coffee"></category></entry><entry><title>Pengeluaran Untuk Kacang-Kacangan Mulai Meningkat 13% Dari Tahun 2020</title><link href="/pengeluaran-kacang-sebulan" rel="alternate"></link><published>2022-06-23T10:20:00+07:00</published><updated>2022-06-23T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-23:/pengeluaran-kacang-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="minuman"></category><category term="kopi"></category><category term="teh"></category></entry><entry><title>Pengeluaran Untuk Kacang-Kacangan Mulai Meningkat 13% Dari Tahun 2020</title><link href="/pengeluaran-kacang-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-23T10:20:00+07:00</published><updated>2022-06-23T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-23:/pengeluaran-kacang-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -927,7 +927,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="nuts"></category></entry><entry><title>Persentase Pengeluaran Susu dan Telur Terbesar Di Tahun 2020</title><link href="/pengeluaran-telur-dan-susu-sebulan" rel="alternate"></link><published>2022-06-22T10:20:00+07:00</published><updated>2022-06-22T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-22:/pengeluaran-telur-dan-susu-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="kacang"></category></entry><entry><title>Persentase Pengeluaran Susu dan Telur Terbesar Di Tahun 2020</title><link href="/pengeluaran-telur-dan-susu-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-22T10:20:00+07:00</published><updated>2022-06-22T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-22:/pengeluaran-telur-dan-susu-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -1058,7 +1058,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="eggs"></category><category term="milk"></category></entry><entry><title>Pengeluaran Konsumsi Lain-Lain Meningkat 17% dari Tahun 2020</title><link href="/pengeluaran-konsumsi-lain-sebulan" rel="alternate"></link><published>2022-06-21T10:20:00+07:00</published><updated>2022-06-21T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-21:/pengeluaran-konsumsi-lain-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="telur"></category><category term="susu"></category></entry><entry><title>Pengeluaran Konsumsi Lain-Lain Meningkat 17% dari Tahun 2020</title><link href="/pengeluaran-konsumsi-lain-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-21T10:20:00+07:00</published><updated>2022-06-21T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-21:/pengeluaran-konsumsi-lain-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -1225,7 +1225,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="consumption"></category></entry><entry><title>Pasca Pandemi Belanja Umbi-umbian Meningkat 26% dari Tahun 2020</title><link href="/pengeluaran-umbi-sebulan" rel="alternate"></link><published>2022-06-20T10:20:00+07:00</published><updated>2022-06-20T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-20:/pengeluaran-umbi-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category></entry><entry><title>Pasca Pandemi Belanja Umbi-umbian Meningkat 26% dari Tahun 2020</title><link href="/pengeluaran-umbi-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-20T10:20:00+07:00</published><updated>2022-06-20T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-20:/pengeluaran-umbi-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -1392,7 +1392,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="tubers"></category></entry><entry><title>Pasca Pandemi Belanja Minyak dan Kelapa Meningkat 15% dari Tahun 2020</title><link href="/pengeluaran-minyak-kelapa-sebulan" rel="alternate"></link><published>2022-06-19T10:20:00+07:00</published><updated>2022-06-19T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-19:/pengeluaran-minyak-kelapa-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="umbi"></category></entry><entry><title>Pasca Pandemi Belanja Minyak dan Kelapa Meningkat 15% dari Tahun 2020</title><link href="/pengeluaran-minyak-kelapa-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-19T10:20:00+07:00</published><updated>2022-06-19T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-19:/pengeluaran-minyak-kelapa-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -1559,7 +1559,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="oil"></category><category term="coconut"></category></entry><entry><title>Pasca Pandemi Belanja Pakaian Warga Turun 18% dari Tahun 2020</title><link href="/pengeluaran-pakaian-sebulan" rel="alternate"></link><published>2022-06-18T10:20:00+07:00</published><updated>2022-06-18T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-18:/pengeluaran-pakaian-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="minyak"></category><category term="kelapa"></category></entry><entry><title>Pasca Pandemi Belanja Pakaian Warga Turun 18% dari Tahun 2020</title><link href="/pengeluaran-pakaian-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-18T10:20:00+07:00</published><updated>2022-06-18T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-18:/pengeluaran-pakaian-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -1726,7 +1726,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="clothes"></category></entry><entry><title>Pengeluaran Untuk Beras Mulai Meningkat 3% Dari Tahun 2020</title><link href="/pengeluaran-beras-sebulan" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-beras-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="pakaian"></category></entry><entry><title>Pengeluaran Untuk Beras Mulai Meningkat 3% Dari Tahun 2020</title><link href="/pengeluaran-beras-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-beras-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -1893,7 +1893,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="rice"></category></entry><entry><title>Pasca Pandemi Belanja Daging Meningkat 72% dari Tahun 2020</title><link href="/pengeluaran-daging-sebulan" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-daging-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="beras"></category></entry><entry><title>Pasca Pandemi Belanja Daging Meningkat 72% dari Tahun 2020</title><link href="/pengeluaran-daging-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-daging-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2060,7 +2060,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="meat"></category><category term="chicken"></category></entry><entry><title>Persentase Pengeluaran Pajak Mengalami Kanaikan Selama 4 Tahun Terakhir</title><link href="/pengeluaran-pajak-sebulan" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-pajak-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="daging"></category></entry><entry><title>Persentase Pengeluaran Pajak Mengalami Kanaikan Selama 4 Tahun Terakhir</title><link href="/pengeluaran-pajak-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-pajak-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2191,7 +2191,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="taxes"></category></entry><entry><title>Pengeluaran Cicilan dan Perabot Rumah Meningkat Bahkan Saat Pandemi</title><link href="/pengeluaran-rumah-sebulan" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-rumah-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="pajak"></category></entry><entry><title>Pengeluaran Cicilan dan Perabot Rumah Meningkat Bahkan Saat Pandemi</title><link href="/pengeluaran-rumah-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-17T10:20:00+07:00</published><updated>2022-06-17T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-17:/pengeluaran-rumah-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2322,7 +2322,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="housing"></category></entry><entry><title>Pasca Pandemi Pengeluaran Bumbu Meningkat 18% dari Tahun 2020</title><link href="/pengeluaran-bumbu-sebulan" rel="alternate"></link><published>2022-06-16T10:20:00+07:00</published><updated>2022-06-16T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-16:/pengeluaran-bumbu-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="rumah tangga"></category></entry><entry><title>Pasca Pandemi Pengeluaran Bumbu Meningkat 18% dari Tahun 2020</title><link href="/pengeluaran-bumbu-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-16T10:20:00+07:00</published><updated>2022-06-16T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-16:/pengeluaran-bumbu-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2489,7 +2489,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="spices"></category></entry><entry><title>Pasca Pandemi Minat Warga Menggelar Khajatan Turun 37% dari Tahun 2020</title><link href="/pengeluaran-pesta-sebulan" rel="alternate"></link><published>2022-06-16T10:20:00+07:00</published><updated>2022-06-16T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-16:/pengeluaran-pesta-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="bumbu"></category></entry><entry><title>Pasca Pandemi Minat Warga Menggelar Hajatan Turun 37% dari Tahun 2020</title><link href="/pengeluaran-pesta-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-16T10:20:00+07:00</published><updated>2022-06-16T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-16:/pengeluaran-pesta-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2656,7 +2656,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="party"></category></entry><entry><title>Belanja Komoditas Tahan Lama Turun Hingga Menjadi 5.8% Tahun 2021</title><link href="/pengeluaran-komoditas-tahan-lama" rel="alternate"></link><published>2022-06-15T12:20:00+07:00</published><updated>2022-06-15T12:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-15:/pengeluaran-komoditas-tahan-lama</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="hajatan"></category></entry><entry><title>Belanja Komoditas Tahan Lama Turun Hingga Menjadi 5.8% Tahun 2021</title><link href="/pengeluaran-komoditas-tahan-lama-jawa-tengah-2021" rel="alternate"></link><published>2022-06-15T12:20:00+07:00</published><updated>2022-06-15T12:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-15:/pengeluaran-komoditas-tahan-lama-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2785,7 +2785,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="durable goods"></category></entry><entry><title>Pengeluaran Warga Untuk Makanan Jadi Kian Menurun Hingga Tahun 2021</title><link href="/pengeluaran-makanan-dan-minuman-jadi-sebulan" rel="alternate"></link><published>2022-06-14T12:20:00+07:00</published><updated>2022-06-14T12:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-14:/pengeluaran-makanan-dan-minuman-jadi-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category></entry><entry><title>Pengeluaran Warga Untuk Makanan Jadi Kian Menurun Hingga Tahun 2021</title><link href="/pengeluaran-makanan-dan-minuman-jadi-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-14T12:20:00+07:00</published><updated>2022-06-14T12:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-14:/pengeluaran-makanan-dan-minuman-jadi-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -2914,7 +2914,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="fastfood"></category></entry><entry><title>Minat Belanja Buah Merosot 0.57% Hingga Pasca Pandemi</title><link href="/pengeluaran-buah-sebulan" rel="alternate"></link><published>2022-06-13T11:20:00+07:00</published><updated>2022-06-13T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-13:/pengeluaran-buah-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="fastfood"></category></entry><entry><title>Minat Belanja Buah Merosot 0.57% Hingga Pasca Pandemi</title><link href="/pengeluaran-buah-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-13T11:20:00+07:00</published><updated>2022-06-13T11:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-13:/pengeluaran-buah-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -3043,7 +3043,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="fruits"></category></entry><entry><title>Belanja Sayur Sebulan Warga Meningkat 32% Sejak 2019</title><link href="/pengeluaran-sayur-sebulan" rel="alternate"></link><published>2022-06-12T10:20:00+07:00</published><updated>2022-06-12T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-12:/pengeluaran-sayur-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="buah"></category></entry><entry><title>Belanja Sayur Sebulan Warga Meningkat 32% Sejak 2019</title><link href="/pengeluaran-sayur-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-12T10:20:00+07:00</published><updated>2022-06-12T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-12:/pengeluaran-sayur-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -3205,7 +3205,7 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="vegetables"></category></entry><entry><title>Pandemi Tidak Mengurangi Pengeluaran Warga Untuk Membeli Rokok</title><link href="/pengeluaran-rokok-sebulan" rel="alternate"></link><published>2022-06-11T10:20:00+07:00</published><updated>2022-06-11T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-11:/pengeluaran-rokok-sebulan</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="sayur"></category></entry><entry><title>Pandemi Tidak Mengurangi Pengeluaran Warga Untuk Membeli Rokok</title><link href="/pengeluaran-rokok-sebulan-jawa-tengah-2021" rel="alternate"></link><published>2022-06-11T10:20:00+07:00</published><updated>2022-06-11T10:20:00+07:00</updated><author><name>Faris Priadi</name></author><id>tag:None,2022-06-11:/pengeluaran-rokok-sebulan-jawa-tengah-2021</id><summary type="html">&lt;script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"&gt;&lt;/script&gt;
 &lt;div id='chart-box' style="padding-top: 50px; padding-bottom: 100px;"&gt;
     &lt;canvas id="myChart" width="400" height="100"&gt;&lt;/canvas&gt;
@@ -3336,4 +3336,4 @@ const myChart = new Chart(ctx, {
 
     }
 });
-&lt;/script&gt;</content><category term="Jawa Tengah"></category><category term="consumer behavoiur"></category><category term="spending"></category><category term="cigarettes"></category></entry></feed>
+&lt;/script&gt;</content><category term="Keuangan"></category><category term="jawa tengah"></category><category term="perilaku konsumen"></category><category term="pengeluaran"></category><category term="rokok"></category></entry></feed>
