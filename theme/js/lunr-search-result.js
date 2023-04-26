@@ -32,7 +32,7 @@ function lunr_search(term) {
       "lunr-search-result-heading"
     );
     const resultIntro = `
-    <h1>Search Results for <code>${term}</code></h1>
+    <h1>Hasil pencarian untuk <code>${term}</code></h1>
     `;
 
     resultHeadingRoot.insertAdjacentHTML("beforeend", resultIntro);
